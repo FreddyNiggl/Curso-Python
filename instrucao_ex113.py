@@ -1,0 +1,2 @@
+"""Escreva a funcao LEIAINT() que fizemos no desafio 104,  incluindo agora a possibilidade da digitacao
+de um numero de tipo invalido. Aproveite e crie  tambem uma funcao  LEIAFLOAT() com a mesma funcionalidade"""

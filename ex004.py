@@ -1,0 +1,18 @@
+n = input('Digite um numero: ')
+print('isnumeric', n.isnumeric())
+print('isalpha', n.isalpha())
+print('isalnum', n.isalnum())
+print('isascii', n.isascii())
+print('isdigit', n.isdigit())
+print('isdecimal', n.isdecimal())
+print('isidentifier', n.isidentifier())
+print('islower', n.islower())
+print('isprintable', n.isprintable())
+print('isspace', n.isspace())
+print('istitle', n.istitle())
+print('isupper', n.isupper())
+
+#para identificar o tipo numerico (n.isnumeric())
+#para identificar tipo letra (n.isalpha())
+#para identificar se eh numero ou letra (n.isalnum())
+# exitesm varios metodos to tipo 'is...'
